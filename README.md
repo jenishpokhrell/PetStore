@@ -5,14 +5,14 @@
 *******************
 
 *Technologies Used*:
-    **C#**
-    **ASP.NET WEB API**
-    **ENTITY FRAMEWORK CORE**
-    **MSSQL SERVER**
-    **TYPESCRIPT/VITE**
-    **SASS**
-    **MATERIAL UI**
-    **SWEET ALERT 2 - FOR NOTIFICATION POP-UP**
+    **C#,**
+    **ASP.NET WEB API,**
+    **ENTITY FRAMEWORK CORE,**
+    **MSSQL SERVER,**
+    **TYPESCRIPT/VITE,**
+    **SASS,**
+    **MATERIAL UI,**
+    **SWEET ALERT 2 - FOR NOTIFICATION POP-UP,**
     **VISUAL STUDIO & VISUAL STUDIO CODE**
 
 Pet Store is a web app that performs the CRUD operations. 
