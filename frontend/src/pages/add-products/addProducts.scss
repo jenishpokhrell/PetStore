@@ -1,0 +1,5 @@
+@import '../../mixins';
+
+.add-product{
+    @include main-style();
+}

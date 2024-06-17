@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Pet Store ASP.NET\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|e:\\pet store asp.net\\backend\\backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|e:\\pet store asp.net\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|e:\\pet store asp.net\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|e:\\pet store asp.net\\backend\\backend\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|solutionrelative:backend\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|e:\\pet store asp.net\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|e:\\pet store asp.net\\backend\\backend\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|solutionrelative:backend\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|e:\\pet store asp.net\\backend\\backend\\dto\\createupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372A35AB-4EBB-49E7-A976-027C0B05374E}|backend\\backend.csproj|solutionrelative:backend\\dto\\createupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Pet Store ASP.NET\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "E:\\Pet Store ASP.NET\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:39:29.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Pet Store ASP.NET\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Pet Store ASP.NET\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T12:30:31.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUpdateProductDto.cs",
+              "DocumentMoniker": "E:\\Pet Store ASP.NET\\backend\\backend\\Dto\\CreateUpdateProductDto.cs",
+              "RelativeDocumentMoniker": "backend\\Dto\\CreateUpdateProductDto.cs",
+              "ToolTip": "E:\\Pet Store ASP.NET\\backend\\backend\\Dto\\CreateUpdateProductDto.cs",
+              "RelativeToolTip": "backend\\Dto\\CreateUpdateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:22:14.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Pet Store ASP.NET\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Pet Store ASP.NET\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowFEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:18:26.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Pet Store ASP.NET\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "E:\\Pet Store ASP.NET\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T12:10:57.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Pet Store ASP.NET\\backend\\backend\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Pet Store ASP.NET\\backend\\backend\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "backend\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:02:10.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "E:\\Pet Store ASP.NET\\backend\\backend\\Entities\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "backend\\Entities\\ProductEntity.cs",
+              "ToolTip": "E:\\Pet Store ASP.NET\\backend\\backend\\Entities\\ProductEntity.cs",
+              "RelativeToolTip": "backend\\Entities\\ProductEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:59:41.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
