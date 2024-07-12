@@ -43,7 +43,7 @@ const AddProducts: React.FC = () => {
         <div className='add-product'>
             <h1>Add New Products</h1>
             <TextField autoComplete='off' label='Brand' name='brand' variant='outlined' value={product.brand} onChange={changeHandler}/>
-            <TextField autoComplete='off' label='Title' name='title' variant='outlined' value={product.title} onChange={changeHandler} />
+            <TextField autoComplete='off' label='Title' name='title' variant='outlined' value={product.title} onChange={changeHandler}/>
             <div>
                 <Button variant='outlined' color='primary' onClick={handleSaveBtnClick}>
                     Save
