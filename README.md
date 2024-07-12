@@ -19,5 +19,3 @@ Pet Store is a web app that performs CRUD operations.
     **Products can be added, the list can be viewed, and data can be updated and deleted as well.**
 
 The products data API is fetched from the backend data i.e. ASP.NET WEB API
-
-***NOTE: WORKING ON RESPONSIVENESS***
